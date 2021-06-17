@@ -1,0 +1,29 @@
+1. Suppose You have an array of object  
+var itemsArray = [ 
+{name:”juice”,price:”50”, quantity:”3”}, 
+{name:”cookie”,price:”30”, quantity:”9”}, 
+{name:”shirt”,price:”880”, quantity:”1”}, 
+{name:”pen”,price:”100”, quantity:”2”}]; 
+Calculate total price of each item and all items;
+
+
+
+ 
+2. Create an object with properties name, email, password, age,  gender, city, country. 
+Check if age and country properties exist in object or not. Also check firstName and lastName properties in object. 
+
+
+
+
+3. Create a constructor function with some properties. Now  create multiple records using the constructor. 
+
+
+
+4. Suppose you want to check population of your area, their educations and professions. 
+Create a constructor function which holds following  properties: 
+Name, gender, address, education, profession,  
+Enter all records one by one.  
+Hint:  
+∙ use select box for education and profession,  
+∙ use radio box for gender 
+Bonus : use can use localStorage to save records.
